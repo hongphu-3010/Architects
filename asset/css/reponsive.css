@@ -1,0 +1,10 @@
+@media (max-width: 739px) {
+    .header__item-right {
+       display: none;
+    }
+    .hiden-on-mobile{
+   
+      display: none;
+    }
+    
+}
