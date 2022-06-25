@@ -122,6 +122,8 @@ html{
     background-color: #000;
     line-height: 2.8rem;
     padding: 5px 14px;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
 
 }
 .project__name-heading {
